@@ -23099,5 +23099,18 @@
     "start_date_local": "2026-03-13T17:14:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 104654.0,
+    "elevation_gain": 870.0,
+    "id": "17720008086",
+    "moving_time": 14844.0,
+    "name": "Ekelwetter und schon wieder einen Platten",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-14T10:45:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
