@@ -12473,6 +12473,20 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 21,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 11,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26553,6 +26567,24 @@
           "distance": 32057.9,
           "elevation_gain": 45.6,
           "moving_time": 3652.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17784065532"
+          ],
+          "count": 1,
+          "distance": 24453.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2775.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17789171256"
+          ],
+          "count": 1,
+          "distance": 17201.0,
+          "elevation_gain": 4.6,
+          "moving_time": 1885.0
         }
       },
       "Walk": {
@@ -26659,7 +26691,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:49:06.690773+00:00",
+  "generated_at": "2026-03-20T15:37:55.432425+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/65166124",
   "repo": "weichslgartner/git-sweaty",
