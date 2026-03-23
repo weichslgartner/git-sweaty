@@ -23229,5 +23229,31 @@
     "start_date_local": "2026-03-21T16:15:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 134127.0,
+    "elevation_gain": 1288.0,
+    "id": "17818467040",
+    "moving_time": 17330.0,
+    "name": "Hello Sunshine",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-22T12:01:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 42003.9,
+    "elevation_gain": 191.0,
+    "id": "17826819195",
+    "moving_time": 5583.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T11:34:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
