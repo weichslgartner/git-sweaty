@@ -23333,5 +23333,44 @@
     "start_date_local": "2026-03-26T20:57:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 62500.9,
+    "elevation_gain": 82.6,
+    "id": "17881368962",
+    "moving_time": 7261.0,
+    "name": "MyWhoosh - Hudayriyat Inner Loop",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T20:52:50Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 36637.8,
+    "elevation_gain": 0.0,
+    "id": "17887311406",
+    "moving_time": 3895.0,
+    "name": "MyWhoosh - Anaerobic Capacity into Sweetspot #3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T11:54:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 10948.5,
+    "elevation_gain": 19.5,
+    "id": "17888719725",
+    "moving_time": 1894.0,
+    "name": "Radfahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T14:12:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
