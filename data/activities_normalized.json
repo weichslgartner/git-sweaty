@@ -23385,5 +23385,18 @@
     "start_date_local": "2026-03-29T14:20:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 64208.7,
+    "elevation_gain": 0.0,
+    "id": "17904026624",
+    "moving_time": 7405.0,
+    "name": "MyWhoosh - Bruges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T16:53:06Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
