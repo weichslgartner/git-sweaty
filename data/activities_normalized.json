@@ -23411,5 +23411,44 @@
     "start_date_local": "2026-03-30T20:28:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 44055.1,
+    "elevation_gain": 106.4,
+    "id": "17929698199",
+    "moving_time": 4835.0,
+    "name": "MyWhoosh - Depleting Session #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-31T20:37:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 17288.9,
+    "elevation_gain": 30.4,
+    "id": "17936215225",
+    "moving_time": 1851.0,
+    "name": "MyWhoosh - 30/15's #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T12:48:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 8510.6,
+    "elevation_gain": 43.6,
+    "id": "17939409642",
+    "moving_time": 1643.0,
+    "name": "Radfahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T17:32:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
