@@ -23489,5 +23489,18 @@
     "start_date_local": "2026-04-03T12:52:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 77332.1,
+    "elevation_gain": 473.0,
+    "id": "17975807499",
+    "moving_time": 8987.0,
+    "name": "Windig is",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T13:38:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
