@@ -23619,5 +23619,57 @@
     "start_date_local": "2026-04-13T21:16:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 21992.6,
+    "elevation_gain": 25.0,
+    "id": "18109348978",
+    "moving_time": 2438.0,
+    "name": "MyWhoosh - Al Wathba-S",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T20:35:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 2848.5,
+    "elevation_gain": 6.6,
+    "id": "18115089621",
+    "moving_time": 896.0,
+    "name": "Radfahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T09:30:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 6483.6,
+    "elevation_gain": 16.8,
+    "id": "18117824870",
+    "moving_time": 1951.0,
+    "name": "Radfahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T13:53:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 15445.4,
+    "elevation_gain": 0.0,
+    "id": "18119061997",
+    "moving_time": 1810.0,
+    "name": "MyWhoosh - Bruges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T16:00:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
