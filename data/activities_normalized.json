@@ -23671,5 +23671,18 @@
     "start_date_local": "2026-04-15T16:00:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 17369.2,
+    "elevation_gain": 62.6,
+    "id": "18122244847",
+    "moving_time": 3195.0,
+    "name": "Radfahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T17:36:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
