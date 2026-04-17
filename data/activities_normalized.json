@@ -23684,5 +23684,31 @@
     "start_date_local": "2026-04-15T17:36:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 40145.6,
+    "elevation_gain": 143.0,
+    "id": "18135285391",
+    "moving_time": 5053.0,
+    "name": "Neue Laufer\u00e4der",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T18:23:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 57869.5,
+    "elevation_gain": 373.0,
+    "id": "18145903651",
+    "moving_time": 7100.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T14:40:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
