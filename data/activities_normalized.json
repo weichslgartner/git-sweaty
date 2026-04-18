@@ -23710,5 +23710,18 @@
     "start_date_local": "2026-04-17T14:40:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 119902.0,
+    "elevation_gain": 1279.0,
+    "id": "18160214989",
+    "moving_time": 17305.0,
+    "name": "Biergarten Saison er\u00f6ffnet",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T10:05:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
