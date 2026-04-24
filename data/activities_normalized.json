@@ -23801,5 +23801,18 @@
     "start_date_local": "2026-04-22T18:11:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 14256.6,
+    "elevation_gain": 17.4,
+    "id": "18240358792",
+    "moving_time": 1553.0,
+    "name": "MyWhoosh - Before too long",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-24T17:13:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
