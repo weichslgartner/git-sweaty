@@ -23840,5 +23840,31 @@
     "start_date_local": "2026-04-25T11:37:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 250937.0,
+    "elevation_gain": 2279.0,
+    "id": "18269055169",
+    "moving_time": 31739.0,
+    "name": "RTF Neustadt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T07:05:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 7369.3,
+    "elevation_gain": 22.5,
+    "id": "18275785899",
+    "moving_time": 1526.0,
+    "name": "Radfahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-27T09:47:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
