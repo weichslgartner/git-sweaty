@@ -23931,5 +23931,18 @@
     "start_date_local": "2026-04-30T13:51:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 17160.9,
+    "elevation_gain": 63.3,
+    "id": "18322697182",
+    "moving_time": 3467.0,
+    "name": "Radfahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T17:34:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
