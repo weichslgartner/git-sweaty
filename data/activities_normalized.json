@@ -23983,5 +23983,18 @@
     "start_date_local": "2026-05-04T18:20:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 2207.3,
+    "elevation_gain": 7.1,
+    "id": "18403459803",
+    "moving_time": 1230.0,
+    "name": "Spaziergang am Abend",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T20:36:03Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
