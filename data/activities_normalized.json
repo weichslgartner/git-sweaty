@@ -24074,5 +24074,18 @@
     "start_date_local": "2026-05-12T17:32:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 378263.0,
+    "elevation_gain": 3380.0,
+    "id": "18507934478",
+    "moving_time": 45170.0,
+    "name": "Schweinshaxe 26",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T04:45:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
