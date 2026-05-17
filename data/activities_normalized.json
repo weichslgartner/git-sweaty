@@ -24113,5 +24113,18 @@
     "start_date_local": "2026-05-16T14:59:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 202715.0,
+    "elevation_gain": 2013.0,
+    "id": "18544904495",
+    "moving_time": 27083.0,
+    "name": "RTF Erlangen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T07:47:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
