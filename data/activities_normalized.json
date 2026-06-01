@@ -24282,5 +24282,31 @@
     "start_date_local": "2026-05-30T12:09:18Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 14420.4,
+    "elevation_gain": 219.3,
+    "id": "18733739610",
+    "moving_time": 10944.0,
+    "name": "Wanderung am Mittag",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-31T11:59:34Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 79481.1,
+    "elevation_gain": 535.0,
+    "id": "18743818929",
+    "moving_time": 9316.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-01T15:43:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
