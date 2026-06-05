@@ -24360,5 +24360,31 @@
     "start_date_local": "2026-06-03T14:47:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 16491.4,
+    "elevation_gain": 1559.4,
+    "id": "18798421862",
+    "moving_time": 17195.0,
+    "name": "Wendelstein",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-04T10:48:34Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 18864.6,
+    "elevation_gain": 1272.8,
+    "id": "18798425537",
+    "moving_time": 19645.0,
+    "name": "Sudelfeld",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-05T10:05:52Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
