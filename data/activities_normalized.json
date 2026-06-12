@@ -24438,5 +24438,18 @@
     "start_date_local": "2026-06-11T08:15:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 10247.8,
+    "elevation_gain": 6.4,
+    "id": "18893193460",
+    "moving_time": 1842.0,
+    "name": "Radfahrt am Abend",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T18:43:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
