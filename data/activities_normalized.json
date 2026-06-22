@@ -24646,5 +24646,31 @@
     "start_date_local": "2026-06-21T10:07:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 129975.0,
+    "elevation_gain": 1311.0,
+    "id": "19013067533",
+    "moving_time": 18205.0,
+    "name": "4 Biergartensteig",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T11:05:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 40508.0,
+    "elevation_gain": 142.0,
+    "id": "19024532397",
+    "moving_time": 5013.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T17:34:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
